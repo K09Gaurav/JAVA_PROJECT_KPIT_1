@@ -9,6 +9,7 @@
 - **Frontend:** HTML, CSS, JavaScript (for charts)
 - **IDE:** VS Code or IntelliJ
 - **Build Tool:** Maven (recommended)
+- Apache Tomcat (for deploying the web app)
 
 ## 🚀 Full Project Development Guide
 

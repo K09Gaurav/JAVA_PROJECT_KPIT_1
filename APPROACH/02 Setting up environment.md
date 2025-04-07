@@ -97,7 +97,6 @@ At the root of `vehicle-analyzer/`, create a `pom.xml` file:
 </project>
 ```
 
-
 ### ✅ **Reload VS Code**
 
 VS Code should now detect the `pom.xml` and offer to import the Maven project. If not:
