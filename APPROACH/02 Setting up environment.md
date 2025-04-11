@@ -103,3 +103,9 @@ VS Code should now detect the `pom.xml` and offer to import the Maven project. I
 
 * Press `Ctrl+Shift+P` → `Maven: Reload project`
 * Or restart VS Code
+
+### ✅Install Apache Tomcat
+
+### ✅PostgreSQL and pgadmin
+
+- Name the Database on Postgres as ProjectDB
